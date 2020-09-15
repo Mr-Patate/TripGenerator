@@ -1,12 +1,13 @@
 # TripGenerator
 Given an excel file with destinations, the TripGenerator returns the best combination to achieves all your destinations in a minimum of time in Python (Using Pandas, Csv, Requests, Numpy, Google API)
 
+********
 
 Well, This idea came during a solo-trip across France. I wanted to visit all my good univesity friends during my last holiday before applying for job market.
 But it was a limited time and I was so upset about the possibility that I do not find the best driving combinaison, and then loose time.
 I decided to write a program who calculate for me all complex combinaison and give me the best one.
 
-
+********
 
 The Script is using Google API (Distance Matrix).
 To run the script, you will need an API Key, provided from Google.
