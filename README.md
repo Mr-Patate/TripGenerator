@@ -1,5 +1,5 @@
 # TripGenerator
-Given an excel file with destinations, the TripGenerator returns the best combination to achieves all your destinations in a minimum of time (Using Pandas, Csv, Requests, Numpy, Google API)
+Given an excel file with destinations, the TripGenerator returns the best combination to achieves all your destinations in a minimum of time in Python (Using Pandas, Csv, Requests, Numpy, Google API)
 
 The Script is using Google API (Distance Matrix).
 To run the script, you will need an API Key, provided from Google.
